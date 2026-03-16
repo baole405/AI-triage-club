@@ -1,4 +1,4 @@
-# Kiros AI Support Triage & Recovery Hub
+# AI Support Triage & Recovery Hub
 
 > **Full Stack Technical Assessment Submission**  
 > An AI-powered system that ingests user complaints and asynchronously turns them into prioritized, "ready-to-send" drafts.
